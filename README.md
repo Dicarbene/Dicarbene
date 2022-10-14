@@ -1,6 +1,6 @@
 Hi there 👋 
 
-I'm wxj, a fullstack developer(should be).
+I'm wxj || Dicarbene, a fullstack developer(should be).
 
 ✍ Most of my works are made with Vue(it's just so good)
 
