@@ -8,7 +8,7 @@ I'm wxj || Dicarbene, a fullstack developer(should be).
 
 🕹️ Here are my personal website: http://dicarbene-github-io.vercel.app/
 
-👾 I'm currently interested in in web3.0
+👾 I'm currently interested in in joining OSS
 
 😻 My dream: having a succulent garden and 3 fat cats lol.
 
