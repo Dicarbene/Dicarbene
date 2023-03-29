@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm wxj || Dicarbene, a fullstack developer(should be).
 
-✍ Most of my works are made with Vue(it's just so good)
+✍ Most of my works are made with Vue/Nuxt(it's just so good)
 
 🚀 I'm learning TypeScript, Next.js etc.
 
